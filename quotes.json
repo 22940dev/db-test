@@ -9,8 +9,12 @@
 		"quoteAuthor": "Adam Smith"
 	},
 	{
-		"quoteText": “We know where you are. We know where you’ve been. We can more or less know what you’re thinking about”,
+		"quoteText": "We know where you are. We know where you’ve been. We can more or less know what you’re thinking about",
 		"quoteAuthor": "Eric Schmidt"
-	}   
+	},
+	{
+		"quoteText": On Google's famous "Don't Be Evil" rule: "When I showed up, I thought this was the stupidest rule ever, because there's no book about evil except maybe, you know, the Bible or something.",
+		"quoteAuthor": "Eric Schmidt"
+	},
  ]	    
 }
